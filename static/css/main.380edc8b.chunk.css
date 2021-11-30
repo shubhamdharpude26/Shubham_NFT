@@ -1,0 +1,2 @@
+body{background-color:#0a1f55;color:#fff}.img,body{box-sizing:border-box}.img{overflow:hidden}.img img{height:400px}Image{max-width:100%}.object{animation:up-down 3s linear infinite}@keyframes up-down{0%,to{transform:translateY(0)}50%{transform:translateY(-30px)}}
+/*# sourceMappingURL=main.380edc8b.chunk.css.map */
